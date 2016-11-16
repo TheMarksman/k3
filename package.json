@@ -1,0 +1,22 @@
+{
+  "name": "k3",
+  "version": "1.0.0",
+  "description": "kiwi solves systems of linear constraints. k3 adds a bit of syntactic sugar to make working with them easier.",
+  "main": "k3.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheMarksman/k3.git"
+  },
+  "author": "Nicholas Bollweg",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/TheMarksman/k3/issues"
+  },
+  "homepage": "https://github.com/TheMarksman/k3#readme"
+}
